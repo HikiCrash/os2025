@@ -1,1 +1,1 @@
-# os2025
+This repository contains materials used in a university course in 2025.
