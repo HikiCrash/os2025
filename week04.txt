@@ -1,0 +1,12 @@
++리눅스 명령어
++
++
+<<<<<<< HEAD
+filename(파일명)
+=======
+파일명(filename)
+>>>>>>> 1f8112865eb7797ae2c182921b26ed94e9cc753a
+깃 명령어
+git fetch
+git commit --amend -m "수정 할 커밋 메세지"
+git reset --hard HEAD~(1) - ()안에 최근부터 돌아가려는 커밋의 개수
