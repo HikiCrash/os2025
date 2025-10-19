@@ -1,0 +1,16 @@
+go 명령어
+go mod init 프로젝트명
+go run 파일명.go
+go bulid 파일명.go
+
+리눅스 
+cp 원본파일명 사본파일명
+
+깃 명령어
+git reset
+git merge 브랜치명
+
+
+기타
+.gitignore 파일 생성 (*.exe)
+package, import, func, println, printf, {}, ;git status
