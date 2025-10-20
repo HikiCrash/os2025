@@ -29,7 +29,7 @@
 // 	var now time.Time = time.Now()
 // 	var day int = now.Day()
 // 	fmt.Println(day)
-// 	univ := "Go$ Inha$"
+// 	univ := "Go$ Code$"
 // 	changer := strings.NewReplacer("$", "!")
 // 	changed := changer.Replace(univ)
 // 	fmt.Println(changed)
@@ -87,7 +87,7 @@
 
 // func main() {
 // 	// shadowing
-// 	// var fmt string = "inha"
+// 	// var fmt string = "code"
 // 	// var int int = 7
 // 	// var k int = 11
 // 	// fmt.Println(int)
