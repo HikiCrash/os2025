@@ -15,7 +15,7 @@ func main() {
 
 	sum := 0.0
 	for i := 0; i < len(weights); i++ {
-		sum = sum + weights[1]
+		sum = sum + weights[i]
 	}
 
 	weeks := float64(len(weights))
